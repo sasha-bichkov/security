@@ -79,6 +79,13 @@ Because don't forget about backend validation!
 * [RailsGuides: Ruby_on_Rails_security_guide](http://guides.rubyonrails.org/security.html)
 
 ## Vulnerability scanners
+* [Arachni](http://www.arachni-scanner.com/)
+* [Metasploit](http://www.metasploit.com/)
+* [Nessus-ulnerability-scanner](http://www.tenable.com/products/nessus-vulnerability-scanner)
+* [Openvas](http://www.openvas.org/)
+* [WPScan](https://github.com/wpscanteam/wpscan)
+* [N-Stalker](http://www.nstalker.com/)
+* [Qualys](https://www.qualys.com/enterprises/qualysguard/web-application-scanning/)
 
 ## Links
 * [HTML5 Security Cheatsheet](http://html5sec.org)
